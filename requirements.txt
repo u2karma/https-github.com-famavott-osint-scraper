@@ -46,7 +46,7 @@ py==1.4.34
 pyasn1==0.3.7
 pycparser==2.18
 Pygments==2.2.0
-pyOpenSSL==17.3.0
+pyOpenSSL==17.5.0
 pypwned==0.1.6
 pyramid==1.9.1
 pyramid-debugtoolbar==4.3
